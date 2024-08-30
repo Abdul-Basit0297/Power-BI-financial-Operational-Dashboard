@@ -1,0 +1,17 @@
+Financial and Operational Dashboard in Power BI
+
+Project Overview
+This Power BI dashboard was designed for a client to provide comprehensive insights into their financial and operational performance.
+The dashboard consolidates data from various sources, enabling the client to make informed decisions based on real-time analytics.
+
+Key Features
+Financial Analysis: Includes key metrics. 
+Visualizations like bar charts, line graphs, and KPIs are used to track financial performance over time.
+Operational Metrics: Displays operational data including Tickets sell , unreturned and resolved. 
+The dashboard offers a clear view of operational performance through interactive charts and tables.
+
+Technologies Used
+Power BI: Main tool for creating the dashboard.
+DAX (Data Analysis Expressions)**: For custom calculations and metrics.
+Power Query: For data cleaning and transformation.
+Excel: For integrating data and initial data manipulation.
